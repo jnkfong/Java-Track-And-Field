@@ -1,7 +1,9 @@
 # Java-Track-And-Field
 Java Track and Field Application written in Java to apply Java Swing &amp; Buffer Reader/Writer
 
-<img src="https://github.com/jnkfong/Drips/blob/master/img/a.png" width="20%"> <img src="https://github.com/jnkfong/Drips/blob/master/img/b.png" width="20%"> <img src="https://github.com/jnkfong/Drips/blob/master/img/c.jpg" width="20%"> <img src="https://github.com/jnkfong/Drips/blob/master/img/d.jpg" width="20%">
+<img src="https://github.com/jnkfong/Java-Track-And-Field/tree/master/Java%20Track%20%26%20Field/screenshots/a.png" width="30%"> 
+<img src="https://github.com/jnkfong/Java-Track-And-Field/tree/master/Java%20Track%20%26%20Field/screenshots/b.png" width="20%"> 
+<img src="https://github.com/jnkfong/Java-Track-And-Field/tree/master/Java%20Track%20%26%20Field/screenshots/c.png" width="20%">
 
 ## Description
 Java Track and Field is a high school project to learn further more about UI development using Java Swing and import/exporting data into a desktop application. Simple implementations such as adding, editing and deleting realm data objects was applied. Further implementations may include pagination to optimize the retrieval of notes object, storage of dates for timestamp and validation for completion. 
